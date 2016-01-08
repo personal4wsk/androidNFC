@@ -1,4 +1,6 @@
-# androidNFC
-this is a test android program for learning NFC
-这是一个在学习安卓NFC开发时用于练习的程序，程序希望能够实现两种功能  1 模拟卡片 2 模拟读卡器
-卡片模拟与读卡器模拟的框架已经搭建完毕，后续添加业务代码
+暂作schedual使用
+1 2016.1.15-2016.1.22  javaWeb视频看完并且按照视频完成javaWeb项目
+
+2 2016.1.23-2016.2.3   完成论文第三章所有内容
+
+3 
